@@ -14,4 +14,4 @@ const APIKey = '1fb96ae839ea693e5c1d2fb4cc6ebe2f';
 # Screenshot
 Weather app screenshot :
 
-![screenshot](./weather/assets/README-images/manila.png)
+![screenshot](./assets/README-images/manila.png)
